@@ -60,8 +60,55 @@ Filters have been added to allow:
 Channel selection
 Custom date range
 
-<img width="1189" height="824" alt="image" src="https://github.com/user-attachments/assets/eea72442-b6ef-45a2-be08-529370fad33e" />
+<img width="587" height="402" alt="image" src="https://github.com/user-attachments/assets/a9e13cbb-56de-4f90-91e9-6e23cc962631" />
 
+8. Sentiment Share (Positive / Neutral / Negative)
+
+This shows distribution of customer sentiments with the ability to filter by Call Duration Type: Long Call, Standard Call, Short Call
+
+
+
+<img width="457" height="84" alt="image" src="https://github.com/user-attachments/assets/7adf01d0-5cd0-48ff-90dd-b1773c938744" />
+
+
+<img width="672" height="374" alt="image" src="https://github.com/user-attachments/assets/80f8df60-b6e5-4b69-bb7c-6bdd2b43792b" />
+
+
+
+**9. NPS by Channel**
+Screenshot displays:
+
+NPS breakdown across different channels, such as Call, Chat, Email, etc.
+Filters are made available for:
+
+Call Center
+City
+
+<img width="1170" height="709" alt="image" src="https://github.com/user-attachments/assets/b376e006-c32d-496e-bb03-5d3c0213a3a4" />
+
+10. Call Duration Split Across Call Centers
+Shows:
+
+Share of:
+
+Long Calls
+Standard Calls
+Short Calls
+
+
+Comparison across call centers
+Optional date range filter
+
+<img width="1175" height="692" alt="image" src="https://github.com/user-attachments/assets/3f66b118-28c2-46a7-a32d-9b519ba98059" />
+
+
+
+
+**🚀 How to Use**
+
+Download the .pbix file from the repository.
+Open it in Power BI Desktop.
+Interact with slicers and filters to explore performance across different regions, channels, and call duration types.
 
 
 
